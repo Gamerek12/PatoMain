@@ -1,0 +1,19 @@
+#Co ile ma sie wysylac wiadomosc (w sekundach)
+time: 6
+
+#Permisja do uzywania komendy automsg
+pex: helper.helper
+
+#Wiadomosc gdy gracz nie posiada permisji
+no-pexmsg: '&8>> &7Nie masz &cpermisji&7!'
+
+#Prefix wyswietlany na chacie
+chatPrefix: '&8[&c&lPATO&8] '
+
+#Domyslnie wlaczone automsg po wlaczeniu
+defaultEnabled: true
+
+#Wiadomosci wyswietlane na chacie
+wiadomosci:
+  - '&8>> &7Wpisz komende &c/testy&7!'
+  - '&8>> &7Aktualnie tryb &9practice &7jest offline!'

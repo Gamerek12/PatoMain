@@ -1,0 +1,21 @@
+name: Pato-Main
+main: xmd.gamerek.tp.MainPlugin
+author: Gamer!
+version: 2.0 PRO
+
+commands:
+   testy:
+      aliases:
+         - test
+         - tests
+         - testy
+   pomoc:
+      aliases:
+         - help
+   osoby:
+      aliases:
+         - online
+         - list
+   walka:
+   tryb:
+   lobby:
